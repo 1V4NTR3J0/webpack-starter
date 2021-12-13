@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Configuración inicial de webpack limpia.
+Configuración inicial de webpack con bootstrap & sass.
 
 ## Notas:
 

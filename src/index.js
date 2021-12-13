@@ -1,6 +1,7 @@
+import "bootstrap";
+import "./sass/style.scss";
 import { saludar } from "./js/componentes";
-import "./styles.css";
 
-const nombre = "Webpack";
+const nombre = "Webpack & bootstrap";
 
 saludar(nombre);
